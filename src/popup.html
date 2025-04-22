@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+      <img src="icon.png" alt="logo" class="logo">
+      <h3>DimmerSwitch</h3>
+    </div>
+    <h4>by ASGA.RD</h4>
+    
+    <label for="brightness-slider">Brightness:</label>
+    <input type="range" id="brightness-slider" min="-1" max="1" step="0.01" value="0">
+    <div class="ruler">
+        <span>-1</span>
+        <span>0</span>
+        <span>1</span>
+    </div>
+    
+    <label for="contrast-slider">Contrast:</label>
+    <input type="range" id="contrast-slider" min="-1" max="1" step="0.01" value="0">
+    <div class="ruler">
+        <span>-1</span>
+        <span>0</span>
+        <span>1</span>
+    </div>
+    
+    <div class="switch-reset-container">
+        <div class="switch" id="toggle"></div>
+        <button class="reset-button" id="reset-button">Reset</button>
+    </div>
+    
+    <script src="popup.js"></script>
+</body>
+</html>
