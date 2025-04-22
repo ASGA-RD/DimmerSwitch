@@ -32,10 +32,10 @@ Sometimes the web can be overwhelmingly bright, especially in low-light conditio
 - André Silva [@andresilva669](https://github.com/andresilva669)
 
 > ## License
-
-DimmerSwitch is free to use as a browser extension.
-
-However, the source code is published for **viewing only**.  
-**Copying, modifying, or reusing the code in any way is not allowed without written permission**.
-
-See the [LICENSE](LICENSE) file for more details.
+>
+> DimmerSwitch is free to use as a browser extension.
+>
+> However, the source code is published for **viewing only**.
+> **Copying, modifying, or reusing the code in any way is not allowed without written permission**.
+>
+> See the [LICENSE](LICENSE) file for more details.
