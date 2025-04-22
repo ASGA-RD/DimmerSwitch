@@ -31,7 +31,7 @@ Sometimes the web can be overwhelmingly bright, especially in low-light conditio
 - Guilherme Andrade [@adr-g](https://github.com/adr-g)
 - André Silva [@andresilva669](https://github.com/andresilva669)
 
-## License
+> ## License
 
 DimmerSwitch is free to use as a browser extension.
 
