@@ -33,9 +33,12 @@ Sometimes the web can be overwhelmingly bright, especially in low-light conditio
 
 > ## License
 >
-> DimmerSwitch is free to use as a browser extension.
+> This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 >
-> However, the source code is published for **viewing only**.
-> **Copying, modifying, or reusing the code in any way is not allowed without written permission**.
+> You are free to use, copy, modify, and distribute this software, provided that:
+> - Any modifications or derivative works are also licensed under the AGPL v3.0.
+> - If you make the software available over a network, the source code must also be made available to users.
 >
-> See the [LICENSE](LICENSE) file for more details.
+> See the [LICENSE](LICENSE) file for the full license text or visit:  
+> [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html)
+
