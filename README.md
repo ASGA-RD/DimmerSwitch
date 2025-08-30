@@ -29,7 +29,6 @@ Sometimes the web can be overwhelmingly bright, especially in low-light conditio
 ## Team
 
 - Guilherme Andrade [@adr-g](https://github.com/adr-g)
-- André Silva [@andresilva669](https://github.com/andresilva669)
 
 > ## License
 >
