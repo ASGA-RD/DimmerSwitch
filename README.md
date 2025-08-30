@@ -26,10 +26,6 @@ Sometimes the web can be overwhelmingly bright, especially in low-light conditio
 - **Current Version**: 1.0
 - **Development Status**: Work in progress! We are continuously working on improving the extension and adding new features.
 
-## Team
-
-- Guilherme Andrade [@adr-g](https://github.com/adr-g)
-
 > ## License
 >
 > This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
